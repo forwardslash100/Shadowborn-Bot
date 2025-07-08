@@ -1,0 +1,20 @@
+{
+  "name": "shadowborn-discord-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "maximous-darks",
+  "license": "ISC",
+  "description": "only-used-for-the-shadowborn-discord-server",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.10"
+  }
+}
